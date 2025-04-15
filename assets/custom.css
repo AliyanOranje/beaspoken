@@ -66,11 +66,11 @@ ul.list-menu li a, summary.list-menu__item {
     font-size: 18px;
     color: white;
 }
-ul.list-menu li .header__submenu a {
+/* ul.list-menu li .header__submenu a {
     color: black;
     font-size: 14px;
     padding: 5px 20px;
-}
+} */
 
 .video-div.image-with-text__media-item.image-with-text__media-item--small.image-with-text__media-item--middle.grid__item {
     width: 100%;
