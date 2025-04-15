@@ -16,11 +16,11 @@
     font-weight: normal;
     font-style: normal;
 }
-@font-face {
+/* @font-face {
     font-family: 'Runda_Normal';
     src: url('https://cdn.shopify.com/s/files/1/0756/8139/9024/files/Runda_Normal.ttf') format('truetype');
     font-style: normal;
-}
+} */
 @font-face {
     font-family: 'Runda_Medium';
     src: url('https://cdn.shopify.com/s/files/1/0756/8139/9024/files/Runda_Medium.ttf') format('truetype');
@@ -35,7 +35,7 @@
 
 
 
-nav.menu-drawer__navigation ul.list-menu li a, nav.menu-drawer__navigation summary.list-menu__item {
+/* nav.menu-drawer__navigation ul.list-menu li a, nav.menu-drawer__navigation summary.list-menu__item {
     margin-bottom: 15px;
 }
 nav.menu-drawer__navigation ul.menu-drawer__menu.list-menu {
@@ -55,7 +55,7 @@ ul.header__submenu {
 div.section-header.shopify-section-header-sticky.main-section {
     position: relative;
     background: #050b13;
-}
+} */
 /* Header CSS */
 ul.list-menu.list-menu--inline {
     grid-gap: 40px;
